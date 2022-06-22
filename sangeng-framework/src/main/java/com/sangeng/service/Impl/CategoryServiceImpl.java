@@ -25,7 +25,8 @@ import java.util.stream.Collectors;
  * @since 2022-02-23 20:34:53
  */
 @Service("categoryService")
-public class CategoryServiceImpl extends ServiceImpl<CategoryMapper, Category> implements CategoryService {
+public class
+CategoryServiceImpl extends ServiceImpl<CategoryMapper, Category> implements CategoryService {
 
     @Autowired
     private ArticleService articleService;

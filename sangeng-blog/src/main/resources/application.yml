@@ -23,3 +23,7 @@ mybatis-plus:
       logic-delete-value: 1
       logic-not-delete-value: 0
       id-type: auto
+oss:
+  accessKey: NmbteEaqvbn_nzmYS_Fkt-EN9k5pNG35Vu_f82Of
+  sercetKey: t_e-oN3-K1fGaOrLxlw5CEv84gIt18QXMQ5ymyOo
+  bucket: easonmark

@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17957bde-a23f-4289-8392-c71ff044cfe7" name="变更" comment="" />
+    <list default="true" id="17957bde-a23f-4289-8392-c71ff044cfe7" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/config/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/controller/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-blog/src/test/java/com/sangeng/OSSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/annotation/SystemLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/Impl/OssUploadServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/UploadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/utils/PathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat.values" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat_i" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3df6fcba-5cf5-4058-957b-32705fac454c/entities/entities.dat_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-blog/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-blog/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/constants/SystemConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/constants/SystemConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/enums/AppHttpCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/enums/AppHttpCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/Impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/Impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/Impl/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/Impl/CommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/UserService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,10 +67,11 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
+    <option name="skipTests" value="true" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="25UW6VByLWD2iw4xttOFnUrCnGY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,12 +87,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sangeng-framework/src/main/resources/static" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="模块" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reactor" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -72,20 +100,77 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sangeng.service" />
       <recent name="com.sangeng.domain.vo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitRepos\SGBlog\sangeng-framework\src\main\resources\static" />
       <recent name="E:\gitRepos\SGBlog\sangeng-framework\src\main\java\com\sangeng\service" />
       <recent name="E:\gitRepos\SGBlog\sangeng-framework\src\main\java\com\sangeng\domain\vo" />
       <recent name="E:\gitRepos\SGBlog\sangeng-framework\src\main\java\com\sangeng\utils" />
       <recent name="E:\gitRepos\SGBlog\sangeng-framework\src\main\java\com\sangeng\config" />
-      <recent name="E:\gitRepos\SGBlog\sangeng-admin\src\main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gitRepos\SGBlog\sangeng-blog\src\main\resources" />
       <recent name="E:\gitRepos\SGBlog\sangeng-admin\src\main" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SanGengBlogApplication">
+    <configuration name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.aspect.demo" />
+      <module name="sangeng-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.aspect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.annotation.demo" />
+      <module name="sangeng-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.filter.demo" />
+      <module name="sangeng-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo.set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sangeng-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sangeng.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.controller.demo" />
+      <option name="METHOD_NAME" value="set" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SanGengBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="sangeng-blog" />
       <extension name="coverage">
@@ -102,6 +187,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.SanGengBlogApplication" />
+        <item itemvalue="JUnit.demo.set" />
+        <item itemvalue="应用程序.demo (3)" />
+        <item itemvalue="应用程序.demo (2)" />
+        <item itemvalue="应用程序.demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -119,12 +208,51 @@
       <workItem from="1645586645743" duration="698000" />
       <workItem from="1645587369632" duration="36089000" />
       <workItem from="1645693484893" duration="1289000" />
-      <workItem from="1645695661605" duration="24599000" />
+      <workItem from="1645695661605" duration="25371000" />
+      <workItem from="1645849916477" duration="680000" />
+      <workItem from="1645866446917" duration="23000" />
+      <workItem from="1646291492968" duration="1366000" />
+      <workItem from="1646370744741" duration="12318000" />
+      <workItem from="1646444011665" duration="6685000" />
+      <workItem from="1646731528987" duration="3279000" />
+      <workItem from="1647156746654" duration="6010000" />
+      <workItem from="1647247950266" duration="742000" />
+      <workItem from="1647510024031" duration="5336000" />
+      <workItem from="1647571031270" duration="1425000" />
+      <workItem from="1647575264970" duration="788000" />
+      <workItem from="1647591149943" duration="7024000" />
+      <workItem from="1647658077748" duration="61000" />
+      <workItem from="1648617649455" duration="1856000" />
+      <workItem from="1648696590450" duration="1088000" />
+      <workItem from="1649725099334" duration="19000" />
+      <workItem from="1650442612358" duration="98000" />
+      <workItem from="1650445327742" duration="61000" />
+      <workItem from="1652170387001" duration="356000" />
+      <workItem from="1653634886803" duration="1829000" />
+      <workItem from="1653637321116" duration="43000" />
+      <workItem from="1653638104198" duration="43000" />
+      <workItem from="1653638166222" duration="35000" />
+      <workItem from="1653889109175" duration="222000" />
+      <workItem from="1655802652751" duration="1888000" />
+      <workItem from="1655859374221" duration="1168000" />
+      <workItem from="1655862249505" duration="1819000" />
     </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1645844200824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645844200824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
